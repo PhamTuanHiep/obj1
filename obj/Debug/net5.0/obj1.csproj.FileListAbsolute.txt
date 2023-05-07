@@ -1,0 +1,16 @@
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1.deps.json
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1.runtimeconfig.json
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1.runtimeconfig.dev.json
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1.dll
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/ref/obj1.dll
+/home/hiep/Documents/Code C#/obj1/bin/Debug/net5.0/obj1.pdb
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.csproj.AssemblyReference.cache
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.AssemblyInfoInputs.cache
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.AssemblyInfo.cs
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.csproj.CoreCompileInputs.cache
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.dll
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/ref/obj1.dll
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.pdb
+/home/hiep/Documents/Code C#/obj1/obj/Debug/net5.0/obj1.genruntimeconfig.cache
